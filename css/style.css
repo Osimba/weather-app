@@ -1,0 +1,15 @@
+h1 {
+  font-size: 4em;
+}
+
+body {
+  background-color: #CCCCCC;
+}
+
+#Main {
+  margin-top: 5%;
+}
+
+#D {
+  cursor: pointer;
+}
